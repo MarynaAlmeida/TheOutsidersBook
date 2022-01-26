@@ -3,8 +3,8 @@ Website about The Outsiders book
 
 # Introduction about The Outsiders Book
 
-To be done
+The Outsiders books is about two gangs that live in different areas.
 
 # About the Website
 
-To be done
+The website was created as part of a school project.
