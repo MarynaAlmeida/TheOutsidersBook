@@ -1,0 +1,166 @@
+body {
+    max-width: 100%;
+}
+
+h4 {
+    font-size:160%
+}
+
+h1 {
+    text-align:center;
+    font-family:serif;
+    color: black;
+    font-size: 50px;
+    text-shadow: 5px 5px 4px white;
+}
+
+.header {
+    padding: 20px;
+    background-color: steelblue;
+    position:relative
+}
+
+img.logo {
+    width: 500px;
+    position:absolute;
+    top: -150px;
+    left: -120px;
+}
+
+img.book {
+    max-width: 100%;
+    width: 172px; height: 298px;
+}
+
+p, pre {
+    font-family:tahoma;
+    display:inline-block;
+}
+
+body {
+    background-color: rgb(186, 213, 235);
+}
+
+table, th, td {
+    border:3px solid black;
+    border-collapse:collapse;
+    text-align:center;
+    width:60%;
+}
+
+th {
+    font-family:sans-serif;
+    height: 50px;
+    background-color:steelblue;
+    color: black;
+    text-shadow: 2px 2px 5px rgb(186, 213, 235);
+}
+
+.relative {
+    position:relative;
+    left:20px;
+}
+caption {
+    font-family:verdana;
+    font-size:30px;
+}
+
+pre.solid {
+    background-color: rgb(243, 243, 189);
+   margin:0%;
+   border: 5px solid rgb(236,203,13);
+   padding: 5px;
+   width: 500px;
+   font-family:tahoma;
+    display:inline-block;
+}
+
+p.first {
+   background-color: rgb(243, 243, 189);
+   margin-top:5px;
+   margin-right: 10px;
+   border: 5px solid rgb(236,203,13);
+   padding: 5px;
+   width: 500px;
+   font-family:tahoma;
+    display:inline-block;
+    position:relative;
+    left: 60px;
+    
+}
+
+a:link.chapter, a:visited.chapter {
+    color:black;
+    background-color:rgb(236, 203, 13);
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-left: 50px;
+    max-width: 100px;
+}
+
+a:hover.chapter, a:active.chapter {
+    color: black;
+    background-color:rgb(243, 243, 189);
+}
+
+a:link.photo, a:visited.photo {
+     float:left;
+     text-decoration:none;
+     background-color:rgb(236, 203, 13);
+     padding: 5px;
+     color: black;
+}
+
+a:hover.photo, a:active.photo {
+    color: black;
+    background-color:rgb(243, 243, 189);
+}
+
+div.sticky {
+    position: sticky;
+    top: 0;
+    background-color: rgb(105, 104, 104);
+    color: white;
+    font-size: 20px;
+    padding: 3px;
+    margin: 0;
+    margin-bottom: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div a.chapter {
+     border: 5px solid rgb(236,203,13);
+     background-color: rgb(243, 243, 189);
+}
+
+img.cover {
+    display:inline-block;
+}
+
+.footer {
+    position:relative;
+    bottom: -50px;
+    background-color: lightgrey;
+    color: black;
+    padding: -5px;
+    text-align: center;
+    display: block;
+}
+
+a:link.photo2, a:visited.photo2 {
+    margin: auto;
+    display: block;
+    width: 50%;
+    text-decoration:none;
+    background-color:rgb(236, 203, 13);
+    padding: 5px;
+    color: black;
+}
+
+a:hover.photo2, a:active.photo2 {
+   color: black;
+   background-color:rgb(243, 243, 189);
+}
+
